@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Analysis in Mexico Using INEGI Data (MOCIBA 2024)
 
-Final project for the **Junior Data Science Course** (Mujer Digital / Junior Achievement México · Tecnolochicas, Fundación Televisa).
+Final project for the **Junior Data Science Course**  Tecnolochicas, Fundación Televisa.
 
 A Python analysis of the INEGI *Cyberbullying Module (MOCIBA) 2024* dataset, using its questions about security measures, incidents, and perceived protection. The project covers data cleaning, national estimates with survey expansion factors, visualizations, a choropleth map, a statistical test, and **machine learning** models (K-Means and logistic regression), all wrapped in an interactive menu.
 
